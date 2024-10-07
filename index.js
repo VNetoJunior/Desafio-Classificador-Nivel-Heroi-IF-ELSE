@@ -42,7 +42,7 @@ else if (xp >= 10001) {
         nivel = " Radiante!"
     }
 
-else (nivel = ferro)
+
 
 
 
