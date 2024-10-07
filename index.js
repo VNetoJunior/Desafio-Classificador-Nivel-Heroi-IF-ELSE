@@ -1,5 +1,5 @@
-let nomeHeroi = ""
-let xp = 1
+let nomeHeroi = " Imperador Junior "
+let xp = 100
 let nivel = ""
 
 if (xp <= 1000) {
@@ -42,8 +42,5 @@ else if (xp >= 10001) {
         nivel = " Radiante!"
     }
 
-
-
-
-
-console.log(xp + nivel)
+    
+console.log("O Herói de nome" + nomeHeroi + "está no Nível de" + nivel)
